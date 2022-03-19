@@ -1,0 +1,16 @@
+[
+  {
+    "cardNo": "1/18",
+    "cardName": "Bulbasaur",
+    "cardRarity": "Common",
+    "cardPrice": "0.55",
+    "itemImage": "https://content.tcgcollector.com/content/images/09/7f/23/097f237d3334ca9a30217f2ff5960dff0da2ed53ce266fb0d8c6e36847b95ef0.jpg"
+  },
+  {
+    "cardNo": "2/18",
+    "cardName": "Ludicolo",
+    "cardRarity": "Rare",
+    "cardPrice": "0.70",
+    "itemImage": "https://content.tcgcollector.com/content/images/58/d0/29/58d02968dc81773e3f4ff7cac3458c059b6d84542f3c324027f4fb490c812945.jpg"
+  },
+]
