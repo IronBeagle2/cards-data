@@ -1,28 +1,28 @@
 [
   {
     "itemName": "Card Booster S1",
-    "itemType": "booster",
+    "itemType": "Booster",
     "itemPrice": "20",
     "itemImage": "http://dejvoss.cz/david/avatar/avatar_classy_v2_pix1large.png"
   },
 
   {
     "itemName": "Card Booster S2",
-    "itemType": "booster",
+    "itemType": "Booster",
     "itemPrice": "25",
     "itemImage": "http://dejvoss.cz/david/avatar/avatar_classy_v2.png"
   },
   
   {
     "itemName": "Card Box S2",
-    "itemType": "box",
+    "itemType": "Box",
     "itemPrice": "100",
     "itemImage": "http://dejvoss.cz/david/avatar/avatar_classy_v2.png"
   },
   
   {
     "itemName": "Card S2 #21 RARE",
-    "itemType": "card",
+    "itemType": "Card",
     "itemPrice": "43",
     "itemImage": "http://dejvoss.cz/david/avatar/avatar_classy_v2.png"
   },
