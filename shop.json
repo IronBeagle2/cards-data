@@ -2,13 +2,15 @@
   {
     "itemName": "Card Booster S1",
     "itemType": "booster",
-    "itemPrice": "20"
+    "itemPrice": "20",
+    "itemImage": "http://dejvoss.cz/david/avatar/avatar_classy_v2_pix1large.png"
   },
 
   {
     "itemName": "Card Booster S2",
     "itemType": "booster",
-    "itemPrice": "20"
+    "itemPrice": "20",
+    "itemImage": "http://dejvoss.cz/david/avatar/avatar_classy_v2.png"
   }
 
 ]
