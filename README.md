@@ -1,2 +1,2 @@
 # cards-data
-Data for my online cards game thingy.
+Data for my Pokémon cards game thingy.
